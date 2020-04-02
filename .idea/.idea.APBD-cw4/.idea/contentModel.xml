@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Czarek\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Czarek\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Czarek\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Czarek\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_APBD-cw4.418379091.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Czarek\RiderProjects\APBD-cw4" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="APBD-cw4.csproj" t="IncludeRecursive" />
+      <e p="APBD-cw4.sln" t="IncludeFlat" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.1" t="Include">
+            <e p="APBD-cw4.AssemblyInfo.cs" t="Include" />
+            <e p="APBD-cw4.RazorAssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="wwwroot" t="Include" />
+    </e>
+  </component>
+</project>
