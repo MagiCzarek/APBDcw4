@@ -2,6 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\Controllers",
+    "\\Middlewares",
     "\\Models",
     "\\Properties",
     "\\Services"
